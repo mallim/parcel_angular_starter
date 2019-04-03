@@ -17,5 +17,6 @@ References:
 
 - [Parcel Angular Example](https://github.com/parcel-bundler/examples/tree/master/angular)
 - [Angular Parcel Bundler](https://github.com/tienne/angular-parcel)
+- [Using ESLint and Prettier in a TypeScript Project](https://www.robertcooper.me/using-eslint-and-prettier-in-a-typescript-project)
 
 
