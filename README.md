@@ -1,4 +1,4 @@
-# Parcel Angular7 Example
+# Parcel Angular Example
 
 Setup highlights:
 
