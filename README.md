@@ -5,7 +5,7 @@ Setup highlights:
 - Angular 7
 - Bootstrap 4 SCSS
 - ESLint/Prettier/Typescript
-- @babel/preset-typescript
+- @babel/preset-typescript - else there will be error on ui-router
 
 Notable files include:
 
