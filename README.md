@@ -1,4 +1,4 @@
-# Parcel Angular7 Example
+# Parcel Angular Example
 
 Setup highlights:
 
@@ -13,9 +13,10 @@ Notable files include:
 - [main.css](src/scss/main.css) importing into [index.html](src/index.html) to style the `<html>`, `<body>` and `<main>` tags.
 - [package.json](src/package.json) deps.
 
-Setup references to the following:
+References:
 
 - [Parcel Angular Example](https://github.com/parcel-bundler/examples/tree/master/angular)
 - [Angular Parcel Bundler](https://github.com/tienne/angular-parcel)
+- [Using ESLint and Prettier in a TypeScript Project](https://www.robertcooper.me/using-eslint-and-prettier-in-a-typescript-project)
 
 
